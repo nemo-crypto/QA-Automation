@@ -13,6 +13,17 @@
 | 查看设计说明与扩展方向 | [架构与设计说明](docs/README.md) |
 | 核实测试结果和当前限制 | [验证记录](docs/VALIDATION.md) |
 
+<!-- BEGIN project-discovery -->
+## 项目定位与实践入口
+
+AI-assisted test automation with Playwright, Appium and pytest for Web, API, Android and iOS. Agent + Skills 自动化测试框架，含本地 Demo、测试报告与 CI。
+
+适合从以下入口阅读实现与接入条件：
+
+- [Web/API 自动化测试](web-api-agent-tests/README.md)
+- [移动端测试框架](mobile-agent-tests/README.md)
+<!-- END project-discovery -->
+
 ## 项目定位
 
 本项目为测试团队提供可阅读、可修改、可迁移的工程基线，适合搭建新项目自动化、统一 UI/API 测试规范，以及验证 Agent 辅助测试的团队协作方式。
